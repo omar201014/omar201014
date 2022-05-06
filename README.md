@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Node JS & Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omar201014?tab=repositories](https://github.com/omar201014?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/omar201014?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/omar-hussein-201014/](https://www.linkedin.com/in/omar-hussein-201014/)
+- 📝 I regularly write articles on [linkedIn](https://www.linkedin.com/in/omar-hussein-201014/)
 
 - 📫 How to reach me **omar_hussein201014@hotmail.com**
 
