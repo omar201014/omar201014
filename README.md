@@ -18,7 +18,6 @@
 <a href="https://twitter.com/omar_201014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omar_hussein" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omar-hussein-201014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-hussein-201014" height="30" width="40" /></a>
 <a href="https://fb.com/omarhussein201014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar201014" height="30" width="40" /></a>
-<a href="https://instagram.com/iomarhussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iomarhussein" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/omar201014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omar201014" height="30" width="40" /></a>
 <a href="https://discord.gg/#1742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1742" height="30" width="40" /></a>
 </p>
