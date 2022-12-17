@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omar_hussein201014@hotmail.com**
 
-- 📄 Know about my experiences [here](https://www.dropbox.com/s/cnn39mgv0rdyqh2/Omar-Resume.pdf?dl=0)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1aOsuQ81bHrLvdhkzGJEaWNi3KelLNfDe/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
