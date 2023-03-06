@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://github.com/omar201014?tab=repositories](https://github.com/omar201014?tab=repositories)
 
-- 🌱 I’m currently learning **Node JS & Angular**
+- 🌱 I’m currently learning **Web Developing by CMS**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/omar201014?tab=repositories)
 
